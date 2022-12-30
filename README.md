@@ -1,0 +1,2 @@
+# AdaGD
+AdaGD optimazation algorithm
